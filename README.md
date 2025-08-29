@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Théo Menchon, 24 years old. I live in Narbonne. I've been working as a full-stack developer for three and a half years in Narbonne.
+Hi, I'm Théo Menchon, 25 years old. I live in Narbonne. I've been working as a full-stack developer for three and a half years in Narbonne.
 
 At the beginning of February 2023, I started freelancing as a WordPress website designer and full stack developer alongside my main activity. I'm a serious, rigorous and diligent person, and I like all the projects I undertake to be well done.
 
@@ -22,6 +22,6 @@ At the beginning of February 2023, I started freelancing as a WordPress website 
   
 Added the `Mon 4 Jul 2024`
 
-Last update on Monday Jun 16 2025
+Last update on Friday Aug 29 2025
 
 🤖 This README.md is continually updated  ❤️
